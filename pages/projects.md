@@ -3,13 +3,13 @@ layout: page
 title: Final Projects
 ---
 
-For your final assignment in this course you will work on a data science project. The goal of the project is to go through the complete data science process to address one of the real-world problems of your choice. You will acquire the data, pre-process it, design your visualizations and exploratory analyses, run models, and communicate the results.
+For your final assignment in this course you will work on a data science project. The goal of the project is to go through the complete data science process to address one of the real-world problems of your choice. You will acquire the data, pre-process it, design your visualisations and exploratory analyses, run models, and communicate the results.
 
 ### Project Team
-Projects will be done in heterogenous teams (3 students). You are strongly advised to collaborate closely with you teammates through a suitable division of labor. You can come up with your own teams and use Canvas to find prospective team members. If you can’t find partners we can help you find a team. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+Projects will be done in heterogenous teams of 3 students. You are strongly advised to collaborate closely with you teammates through a suitable division of labor. Each group will get a unique project grade which will then be adjusted by peer assessments to come up with the project grade of each group member (see below).
 
 ### Project Milestones
-There are a few milestones for your final project. **It is critical to note that no extensions will be given for any of the project due dates for any reason. Late days may not be used.** Projects submitted after the final due date will not be graded. If you anticipate any issues (e.g., due to business travel) you need to send an email to the teaching staff **at least one week in advance**.
+There will be a couple of milestones to your final project which will be announced through the [course calendar](). **It is critical to note that no extensions will be given for any of the project due dates for any reason. Late days may not be used.** Projects submitted after the final due date will not be graded. If you anticipate any issues (e.g., due to business travel) you need to send an email to the teaching staff **at least one week in advance**.
 
 | Date       | Description |
 | ------------- |-------------|
