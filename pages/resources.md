@@ -3,7 +3,7 @@ layout: page
 title: Resources 
 ---
 
-Resources here will updated throughout the semester. 
+[//]: # Resources here will updated throughout the semester. 
 
 
 [//]: # #### Course Communication
