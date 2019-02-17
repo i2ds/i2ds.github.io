@@ -7,8 +7,8 @@ Resources here will be updated throughout the semester.
 
 #### Data Science Centers, etc.
 
-* Imperial Data Science Institute
-* ...
+* [Imperial Data Science Institute](https://www.imperial.ac.uk/data-science/)
+* [Berkeley Division of Data Sciences](http://data.berkeley.edu/)
 	
 #### Data Science Books
 

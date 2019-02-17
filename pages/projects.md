@@ -9,7 +9,12 @@ For your final assignment in this course you will work on a data science project
 Projects will be done in heterogenous teams of 3 students. You are strongly advised to collaborate closely with you teammates through a suitable division of labor. Each group will get a unique project grade which will then be adjusted by peer assessments to come up with the project grade of each group member (see below).
 
 ### Project Milestones
-There will be a couple of milestones to your final project which will be announced through the [course calendar]({{BASE_PATH}}/pages/lectures.html). **It is critical to note that no extensions will be given for any of the project due dates for any reason. Late days may not be used.** Projects submitted after the final due date will not be graded. If you anticipate any issues (e.g., due to business travel) you need to send an email to the teaching staff **at least one week in advance**.
+There will be a number of milestones to your final project which will be announced through the [course calendar]({{BASE_PATH}}/pages/lectures.html). **It is critical to note that no extensions will be given for any of the project due dates for any reason.** Projects submitted after the final due date will not be graded. If you anticipate any issues, you need to send an email to the teaching staff **at least one week in advance**.
+
+#### Milestone (Date)
+Form a team and submit a project proposal
+Project review meeting with your TA
+
 
 | Date       | Description |
 | ------------- |-------------|
