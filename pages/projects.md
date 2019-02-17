@@ -3,10 +3,10 @@ layout: page
 title: Final Projects
 ---
 
-For your final assignment in this course you will work on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about some topic of your own choosing. You will acquire the data, design your visualizations, run statistical analyses, and communicate results.
+For your final assignment in this course you will work on a data science project. The goal of the project is to go through the complete data science process to address one of the real-world problems of your choice. You will acquire the data, pre-process it, design your visualizations and exploratory analyses, run models, and communicate the results.
 
 ### Project Team
-You may work individually or in a team. If part of a team, you will work closely with other classmates (a maximum of 4 students per team) on this project. You can come up with your own teams and use Canvas to find prospective team members. If you can’t find partners we can help you find a team. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+Projects will be done in heterogenous teams (3 students). You are strongly advised to collaborate closely with you teammates through a suitable division of labor. You can come up with your own teams and use Canvas to find prospective team members. If you can’t find partners we can help you find a team. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
 
 ### Project Milestones
 There are a few milestones for your final project. **It is critical to note that no extensions will be given for any of the project due dates for any reason. Late days may not be used.** Projects submitted after the final due date will not be graded. If you anticipate any issues (e.g., due to business travel) you need to send an email to the teaching staff **at least one week in advance**.

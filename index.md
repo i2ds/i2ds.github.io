@@ -12,4 +12,4 @@ Stay tuned! Further course details will appear here soon.
 
 
 
-<img src="https://cdn-images-1.medium.com/max/2600/1*s4RqFZgSAluZq2lcWhp5JA.png" width="50%" alt="Site logo" align = "center">
+<img src="https://cdn-images-1.medium.com/max/2600/1*s4RqFZgSAluZq2lcWhp5JA.png" width="75%" alt="Site logo" align = "center">
