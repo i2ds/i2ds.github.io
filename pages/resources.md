@@ -20,3 +20,6 @@ Resources here will be updated throughout the semester.
 	* ...
 	* ...
 
+##### Other resource
+
+* [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
