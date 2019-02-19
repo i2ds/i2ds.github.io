@@ -29,3 +29,4 @@ Resources here will be updated throughout the semester.
 ##### Other resources
 
 * [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Scrape Hero](https://www.scrapehero.com)
